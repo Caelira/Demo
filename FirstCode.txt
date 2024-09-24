@@ -3,3 +3,5 @@ take user input
 add the values
 
 submit data to the database
+
+idk man
