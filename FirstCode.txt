@@ -1,1 +1,3 @@
 Hello world FFS this is cruel 
+take user input
+add the values
